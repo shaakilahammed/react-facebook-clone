@@ -3,5 +3,7 @@
     "activityBar.background": "#2D078E",
     "titleBar.activeBackground": "#3F0AC7",
     "titleBar.activeForeground": "#FDFCFF"
-  }
+  },
+  "css.validate": false,
+  "tailwindCSS.emmetCompletions": true
 }
